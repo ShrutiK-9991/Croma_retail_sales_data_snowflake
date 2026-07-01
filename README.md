@@ -391,6 +391,6 @@ order by i.on_order_qty desc;
 - 6.24% employee attrition (749 of 12,000 employees terminated)
 
 🛠️ Tech Stack
-Database: Snowflake
-Language: SQL
-Data Format: CSV
+- Database: Snowflake
+- Language: SQL
+- Data Format: CSV
